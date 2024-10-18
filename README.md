@@ -1,1 +1,4 @@
 # Olmstead_Project
+This github repository is for the Olmstead Community Park Project. Our topic is the Impact of Invasive Species on Native Speices.
+
+Within this repository is the `2022InvasiveSurveryEdited.xlsx` which is the the Excel file that was edited in Excel to format the canopy species and understory species columns. The `Olmstead_Native_Invasive_Species_EDA,ipynb` is the jupyter notebook that was used in the EDA. The `Cleaned_Combined_2022InvasiveSurveyEdited.csv` is the combined park data that was a result of cleaning the data during the EDA. The `Group 5 EDA` is the powerpoint presentation for the EDA.
